@@ -1,35 +1,58 @@
-# Oi, eu sou o Dhiego 👋
+<div align="center">
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na USJT, **em busca de estágio em TI**. Gosto de construir sistemas
-completos, do banco de dados à tela, e de deixar tudo testado e documentado.
+<img src="assets/banner.svg" alt="Dhiego: estudante de ADS, Java e Python, em busca de estágio em TI" width="100%">
 
-## O que estou construindo
+<br>
 
-### [NexoDesk](https://github.com/nevessdhiego-design/nexodesk)
-Helpdesk para condomínios, feito em grupo na faculdade (A3 de Projeto e Engenharia de Software). O morador abre chamados, o sistema
-estima a dificuldade e monta a fila do síndico (emergência primeiro), e a equipe atende com checklist, foto e conversa em tempo real.
+<a href="https://github.com/nevessdhiego-design/nexodesk"><img src="https://img.shields.io/badge/NEXODESK-0a0b0d?style=for-the-badge&logo=github&logoColor=f5b544" alt="Repositório do NexoDesk"></a>
+<a href="https://github.com/nevessdhiego-design/nexodesk/releases/tag/v0.9.0"><img src="https://img.shields.io/badge/RELEASE_v0.9.0-0a0b0d?style=for-the-badge&logo=semanticrelease&logoColor=f5b544" alt="Release v0.9.0 do NexoDesk"></a>
+<a href="https://www.linkedin.com/in/dhiegorodrigues"><img src="https://img.shields.io/badge/LINKEDIN-0a0b0d?style=for-the-badge&logo=linkedin&logoColor=f5b544" alt="LinkedIn de Dhiego"></a>
 
-- Java 21 + Spring Boot 4, serviço de regras em Python (FastAPI), MySQL/H2 com migrações Flyway
-- 191 testes Java e 20 Python, com CI no GitHub Actions
-- Segurança (bcrypt, CSRF, CSP), acessibilidade (modo escuro, alto contraste) e documentação técnica
-- Trabalho por pull request, com política de versionamento, tabela de riscos e registro de revisões
+</div>
 
-### [Meu Financeiro](https://github.com/nevessdhiego-design/meu-financeiro)
-App de finanças pessoais que roda no navegador e pode ser instalado como aplicativo (PWA), em HTML, CSS e JavaScript.
+<br>
 
-## Tecnologias dos meus projetos
+### Sobre mim
 
-![Java](https://img.shields.io/badge/Java-21-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F)
-![Python](https://img.shields.io/badge/Python-3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF)
+Estudante de **Análise e Desenvolvimento de Sistemas** na USJT, **em busca de estágio em TI**. Gosto de construir sistemas completos, do banco de dados à tela, e de deixar tudo testado, documentado e acessível.
 
-## Estudando agora
+<br>
+
+### Em destaque
+
+<table>
+<tr>
+<td width="56%" valign="top">
+<a href="https://github.com/nevessdhiego-design/nexodesk"><img src="https://raw.githubusercontent.com/nevessdhiego-design/nexodesk/main/docs/telas/02-painel-do-sindico.jpg" alt="Painel do síndico do NexoDesk" width="100%"></a>
+</td>
+<td valign="top">
+<h4><a href="https://github.com/nevessdhiego-design/nexodesk">NexoDesk</a></h4>
+<p>Helpdesk para condomínios, feito em grupo na faculdade. O morador abre chamados, o sistema estima a dificuldade e monta a fila do síndico (emergência primeiro), e a equipe atende com checklist, foto e conversa em tempo real.</p>
+<ul>
+<li>Java 21, Spring Boot 4 e serviço de regras em Python (FastAPI)</li>
+<li>MySQL/H2 com migrações Flyway</li>
+<li>191 testes Java e 20 Python, CI no GitHub Actions</li>
+<li>Segurança, modo escuro e alto contraste</li>
+<li>Trabalho por pull request, com riscos e revisões registrados</li>
+</ul>
+</td>
+</tr>
+</table>
+
+**Também:** [Meu Financeiro](https://github.com/nevessdhiego-design/meu-financeiro), app de finanças pessoais que roda no navegador e pode ser instalado como aplicativo (PWA), em HTML, CSS e JavaScript.
+
+<br>
+
+### Tecnologias dos meus projetos
+
+<div align="center">
+<img src="assets/tecnologias.svg" alt="Java 21, Spring Boot, Python, FastAPI, MySQL, Flyway, JUnit 5, pytest, Git, GitHub Actions, HTML, CSS e JavaScript">
+</div>
+
+<br>
+
+### Estudando agora
+
 Engenharia de software (Sommerville), UML, gerência de configuração e de riscos, e boas práticas de teste.
 
-<!-- Adicione aqui seu LinkedIn e e-mail de contato. -->
+<img src="assets/rodape.svg" alt="" width="100%">
