@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="presentation" aria-hidden="true">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#f5b544" stop-opacity=".0"/><stop offset=".5" stop-color="#f5b544" stop-opacity=".55"/><stop offset="1" stop-color="#f5b544" stop-opacity="0"/></linearGradient></defs>
+<style>.o1{animation:ond 9s ease-in-out infinite}.o2{animation:ond 12s ease-in-out infinite reverse}
+@keyframes ond{0%,100%{transform:translateX(0)}50%{transform:translateX(-40px)}}
+@media (prefers-reduced-motion:reduce){.o1,.o2{animation:none}}</style>
+<path class="o2" d="M-60 62 C 120 20, 260 100, 440 58 S 780 20, 960 64 S 1180 90, 1280 52 V110 H-60Z" fill="url(#g)" opacity=".45"/>
+<path class="o1" d="M-60 78 C 140 44, 300 108, 500 74 S 820 44, 1000 80 S 1200 100, 1280 70 V110 H-60Z" fill="url(#g)"/>
+</svg>
