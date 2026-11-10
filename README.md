@@ -6,8 +6,7 @@
 
 <a href="https://github.com/nevessdhiego-design/nexodesk"><img src="https://img.shields.io/badge/NEXODESK-0a0b0d?style=for-the-badge&logo=github&logoColor=f5b544" alt="Repositório do NexoDesk"></a>
 <a href="https://github.com/nevessdhiego-design/nexodesk/releases/tag/v0.9.0"><img src="https://img.shields.io/badge/RELEASE_v0.9.0-0a0b0d?style=for-the-badge&logo=semanticrelease&logoColor=f5b544" alt="Release v0.9.0 do NexoDesk"></a>
-<!-- Quando tiver o link, acrescente o LinkedIn:
-<a href="https://www.linkedin.com/in/SEU-PERFIL/"><img src="https://img.shields.io/badge/LINKEDIN-0a0b0d?style=for-the-badge&logo=linkedin&logoColor=f5b544" alt="LinkedIn"></a> -->
+<a href="https://www.linkedin.com/in/dhiegorodrigues"><img src="https://img.shields.io/badge/LINKEDIN-0a0b0d?style=for-the-badge&logo=linkedin&logoColor=f5b544" alt="LinkedIn de Dhiego"></a>
 
 </div>
 
